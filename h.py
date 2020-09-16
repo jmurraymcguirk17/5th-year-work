@@ -1,0 +1,6 @@
+print("this", end="")
+print("is", end="")
+print("on", end="")
+print("the", end="")
+print("same", end="")
+print("line", end="")
